@@ -1,9 +1,15 @@
-+++
-date = '2025-12-21T14:06:38+10:00'
-draft = false
-title = 'Anchovy and Garlic Crostini'
-tags = ['post', 'dazza', 'recipe', 'food']
-+++
+---
+title: Anchovy and Garlic Crostini
+description: Anchovy and Garlic Crostini
+slug: anchovy-and-garlic-crostini
+date: 2025-12-21 06:37:00+1000
+image: gorgonzola-anchovy-crostini.png
+categories:
+    - Food
+tags:
+    - Food
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+---
 
 ### Following a YouTube recipe for Anchovy & Garlic Crostini
 

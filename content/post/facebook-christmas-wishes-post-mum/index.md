@@ -1,9 +1,17 @@
-+++
-date = '2025-12-21T10:56:13+10:00'
-draft = false
-title = 'Facebook Christmas Wishes & SCUH release'
-tags = ['post', 'facebook', 'SCUH']
-+++
+---
+title: Facebook Christmas Wishes & SCUH release
+description: Facebook Christmas Wishes & SCUH release
+slug: facebook-chrstmas-wishes-post-mum
+date: 2025-12-21 10:56:13+1000
+image: scary-christmas-all.png
+categories:
+    - Christmas
+tags:
+    - Christmas
+    - SCUH
+    - facebook
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+---
 
 ### Christmas Wishes FB post and SCUH release.
 
