@@ -5,7 +5,7 @@ title = 'Mammas Got a New Bed'
 tags = ['post', 'SCUH', 'mum sickness','MoW']
 +++
 
-![jannali electric bed pic](alivio-jannali-electric-bed-with-trendelenburg-1-79261-1030x728-1-500x353.jpg)
+![jannali electric bed pic](alivio-jannali-bed.png)
 
 
 Bryson and I picked out a bed from Maroochydore Lakeside Mobility along with matterss, side protector and rolling pivoting table for mum.  Will be delivered in first week of Jan 26.  Paid in full today via bank xfer.
